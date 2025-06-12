@@ -191,11 +191,12 @@ tsconfig.json
 |___next-auth.d.ts
 
 ```
-
 <!-- TREEVIEW END -->
+
 # Prerequisite, Installation and CLI
 **Prerequisite**
 - NodeJS
+- Git
   
 **Installation**
 1. โหลด NodeJS ในการใช้งาน library ที่ใช้ทำงานทั้งหมดในระบบ

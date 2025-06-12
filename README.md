@@ -193,13 +193,42 @@ tsconfig.json
 ```
 
 <!-- TREEVIEW END -->
-# Installation and CLI
+# Prerequisite, Installation and CLI
+**Prerequisite**
+- NodeJS
+  
 **Installation**
 1. โหลด NodeJS ในการใช้งาน library ที่ใช้ทำงานทั้งหมดในระบบ
+https://nodejs.org/en/download
 ![image](https://github.com/user-attachments/assets/3725b71e-1949-457a-bdda-bd844d7836a4)
-![NodeJS](https://nodejs.org/en/download
-2. ติดตั้ง NodeJS ในเครี่อง
 
+2. ติดตั้ง NodeJS ในเครี่อง
+   
+   ![image](https://github.com/user-attachments/assets/11dc68f4-6305-41d3-9e94-ca75bf7aab60)
+   ![image](https://github.com/user-attachments/assets/21905fdb-ed99-4ce6-8db4-faf37b02e825)
+   ![image](https://github.com/user-attachments/assets/9ed5be42-0738-4b39-b361-2f0dbd45834d)
+   
+   ![image](https://github.com/user-attachments/assets/1e56b129-3b6f-4796-b30b-767807f6ee44)
+   ![image](https://github.com/user-attachments/assets/57602346-07de-4f36-bd75-59c6e4b024af)
+
+3. ใช้คำสั่งในการโคลน repo ลงมา
+   ```bash
+   git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_08_nrc-r2.git
+   cd 2567-2-cs403-final-submission-67-1_08_nrc-r2
+   ```
+4. ใช้คำสั่งในการลง package ทุกตัว
+   ```bash
+   npm install
+   npx prisma generate
+   ```
+5. ใช้คำสั่งในการเปิด localhost server
+   ```bash
+   npm run dev
+   ```
+6. เข้าเว็บด้วย
+    ```
+    http://localhost:3000
+    ```
 # Topic 3
 
 

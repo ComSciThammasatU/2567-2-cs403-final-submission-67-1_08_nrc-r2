@@ -11,7 +11,7 @@
 
 **ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
 1. นายณธรรม ทองเอียง  6409610604  natum.ton@dome.tu.ac.th
-2. นายศิวกร เกิดลาภี siwakorn.ker@dome.tu.ac.th
+2. นายศิวกร เกิดลาภี 6409682900 siwakorn.ker@dome.tu.ac.th
    
 Manual / Instructions for your projects starts here !
 # Directory Tree

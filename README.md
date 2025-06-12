@@ -230,6 +230,25 @@ https://nodejs.org/en/download
     ```
     http://localhost:3000
     ```
-# Topic 3
+# How-to-use
+หน้าแรกเราจะสามารถเข้ามาดูสินค้าได้ว่ามีอะไรบ้าง
+![image](https://github.com/user-attachments/assets/3ff97732-1e2a-465e-ab2d-0b66ee6888df)
+![image](https://github.com/user-attachments/assets/0f1ad8e7-3870-47d6-82dd-890b9a287058)
+
+หน้าที่เข้ามาดูสินค้าได้ว่ามีรายละเอียดอะไรบ้าง
+![image](https://github.com/user-attachments/assets/7acae06c-b499-4c92-af5d-887677c26d24)
+การกดเพิ่มสินค้าเข้าตระกร้าได้
+![image](https://github.com/user-attachments/assets/d3c130c5-bc51-46bf-81a6-69ee7928db20)
+ประวัติการสั่งซื้อ
+![image](https://github.com/user-attachments/assets/54a59463-d428-49ae-83e4-3700a75848a6)
+หน้าการชำระเงินโดยเราจะสามารถกดชำระเงิน
+![image](https://github.com/user-attachments/assets/67656d84-696b-43ff-a36d-b7adb4b46397)
+หน้าการจัดการของเกษตรกร
+![image](https://github.com/user-attachments/assets/5a735221-f62a-4a5f-a9f2-29e9a7d1e1ca)
+![image](https://github.com/user-attachments/assets/7d97bc64-953a-470d-8e7f-5f8dacbdd2d4)
+![image](https://github.com/user-attachments/assets/5d1aa69b-b0cf-42fe-972d-8c131f1e2a0f)
+
+
+
 
 
